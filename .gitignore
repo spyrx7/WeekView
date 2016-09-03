@@ -1,0 +1,7 @@
+.idea
+.giadle
+.gnupg
+*.iml
+build
+local.properties
+gradle.properties
